@@ -1,2 +1,2 @@
 # Zerods
-Raspberry pi Zero portable and capable on programming microcontrollers, in the shape of Nintendo DS
+Raspberry pi Zero portable and capable of programming microcontrollers, in the shape of Nintendo DS
